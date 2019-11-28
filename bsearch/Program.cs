@@ -3,6 +3,9 @@ using System.Collections.Generic;
 // test
 namespace bsearch
 {
+    /// <summary>
+    /// This program demonstrate the sorting function
+    /// </summary>
     class Program
     {
         public int[] CreateArray()
